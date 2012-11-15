@@ -37,6 +37,8 @@
 		70459B991654E06900AF5BFA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		70459B9B1654E06900AF5BFA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		70459B9C1654E06900AF5BFA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		7093C4D91655484D001ED9DF /* seemethenfail.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = seemethenfail.c; sourceTree = "<group>"; };
+		7093C4DC16554877001ED9DF /* seemethenok.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = seemethenok.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,11 +86,13 @@
 			isa = PBXGroup;
 			children = (
 				70459B8F1654E06900AF5BFA /* AppDelegate.h */,
+				7093C4D91655484D001ED9DF /* seemethenfail.c */,
 				70459B901654E06900AF5BFA /* AppDelegate.m */,
 				70459B981654E06900AF5BFA /* MainStoryboard.storyboard */,
 				70459B9B1654E06900AF5BFA /* ViewController.h */,
 				70459B9C1654E06900AF5BFA /* ViewController.m */,
 				70459B871654E06900AF5BFA /* Supporting Files */,
+				7093C4DC16554877001ED9DF /* seemethenok.h */,
 			);
 			path = GitExample;
 			sourceTree = "<group>";
@@ -176,6 +180,7 @@
 				70459B8D1654E06900AF5BFA /* main.m in Sources */,
 				70459B911654E06900AF5BFA /* AppDelegate.m in Sources */,
 				70459B9D1654E06900AF5BFA /* ViewController.m in Sources */,
+				7093C4DA1655484D001ED9DF /* seemethenfail.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
