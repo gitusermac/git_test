@@ -18,6 +18,7 @@
 		70459B971654E06900AF5BFA /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70459B961654E06900AF5BFA /* Default-568h@2x.png */; };
 		70459B9A1654E06900AF5BFA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70459B981654E06900AF5BFA /* MainStoryboard.storyboard */; };
 		70459B9D1654E06900AF5BFA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 70459B9C1654E06900AF5BFA /* ViewController.m */; };
+		7093C4DA1655484D001ED9DF /* seemethenfail.c in Sources */ = {isa = PBXBuildFile; fileRef = 7093C4D91655484D001ED9DF /* seemethenfail.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
